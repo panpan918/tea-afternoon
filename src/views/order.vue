@@ -1,13 +1,6 @@
 <template>
-    <div>
-        <better></better>
-    </div>
+  <div>order</div>
 </template>
 <script>
-import better from "@/components/nav-b.vue"
-export default {
-    components:{
-        better
-    }
-}
+export default {}
 </script>
