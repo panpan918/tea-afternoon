@@ -1,6 +1,6 @@
 import Home from '../views/Home.vue'
 import Goods from '../views/Goods.vue'
-import Order from '../views/Order.vue'
+import Order from '../views/Order/Order.vue'
 import Mine from '../views/Mine.vue'
 
 export default [{

@@ -297,3 +297,7 @@ summary {
 canvas {
   display: inline-block;
 }
+
+html, body {
+  height: 100%;
+}
